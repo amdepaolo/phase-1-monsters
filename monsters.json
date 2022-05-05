@@ -6005,6 +6005,24 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Mark",
+      "age": 12,
+      "description": "A real jerk who lies about his dad working at nintendo",
+      "id": 1002
+    },
+    {
+      "name": "",
+      "age": null,
+      "description": "",
+      "id": 1003
+    },
+    {
+      "name": "Vegetable Gremlin",
+      "age": "3",
+      "description": "From the movie Gremlins 2: The new Batch. He's like one of the regular gremlins but he's vegetables.",
+      "id": 1004
     }
   ]
 }
